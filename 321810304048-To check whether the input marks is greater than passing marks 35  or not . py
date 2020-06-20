@@ -1,0 +1,8 @@
+#To check whether the input marks is greater than passing marks 35  or not 
+marks=int(input("Enter the marks:"))
+pm=35
+if marks >pm:
+	print("Marks is greater than 35")
+else:
+	print("Marks is not greater than 35")
+print(marks)
